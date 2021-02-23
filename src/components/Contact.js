@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React from "react";
 import { Form, Col, Button } from 'react-bootstrap';
 
 const Contact = () => {
