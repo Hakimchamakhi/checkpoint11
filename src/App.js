@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import React, {Component} from "react";
+import React from "react";
 import {BrowserRouter, Switch, Route} from "react-router-dom";
 import './App.css';
 import Nav from './components/Nav'
