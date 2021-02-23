@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React from "react";
 import {Navbar, Nav as Navb, Form, Button, FormControl} from 'react-bootstrap'
 import {BrowserRouter as Router} from "react-router-dom";
 
